@@ -1,0 +1,20 @@
+{
+  "name": "angular-ui-jq",
+  "version": "1.0.0",
+  "description": "JQuery wrapper for Angular JS",
+  "main": "angular-ui-jq.js",
+  "dependencies": {
+    "angular": "^1.5.0",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puxos/angular-ui-jq.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "directive",
+    "jQuery"
+  ],
+  "author": "Frank,H.L.Lai <frank@leadstec.com>",
+  "license": "MIT"
+}
