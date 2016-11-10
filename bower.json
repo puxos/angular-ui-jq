@@ -1,9 +1,9 @@
 {
     "name": "angular-ui-jq",
-    "version": "0.1.1",
-    "main": "ui-jq.js",
+    "version": "1.0.0",
+    "main": "angular-ui-jq.js",
     "license": "MIT",
-    "homepage": "https://github.com/leadstec/angular-ui-jq",
+    "homepage": "https://github.com/puxos/angular-ui-jq",
     "ignore": [
         "src",
         "example"

@@ -10,7 +10,8 @@
   "license": "MIT",
   "main": "angular-ui-jq.js",
   "dependencies": {
-    "angular": "^1.5.0"
+    "angular": "^1.5.0",
+    "angular-ui-load": "git+https://github.com/puxos/angular-ui-load.git"
   },
   "keywords": [
     "AngularJS",
