@@ -10,6 +10,7 @@
     ],
     "dependencies": {
         "jquery": ">=1.7",
-        "angular": ">=1.2.0"
+        "angular": ">=1.2.0",
+        "angular-ui-load": ">=1.0.0"
     }
 }
