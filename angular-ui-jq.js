@@ -18,6 +18,7 @@
  */
 angular.module('ui.jq', ['ui.load'])
 .value('uiJqConfig', {})
+.value('JQ_CONFIG', {})
 .directive('uiJq', ['uiJqConfig', 'JQ_CONFIG', 'uiLoad', '$timeout', 
     function uiJqInjectingFunction(uiJqConfig, JQ_CONFIG, uiLoad, $timeout) {
         return {
